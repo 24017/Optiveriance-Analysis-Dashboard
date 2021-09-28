@@ -37,4 +37,8 @@ https://inblog.in/Power-BI-Project-Optiveriance-Analysis-IgwUJ3ASzr
 #### Dashboard 2
 ![image](https://user-images.githubusercontent.com/40292788/135089628-68329083-d38d-4042-8af4-0f32c79037c3.png)
 
+## Conclusion
+-->So basically by looking at these visuals, you can conclude that overall performance in terms of sales and profit is good, it can be a good company to be merged with as it is increasing yearly. 
+-->Till now it has covered almost Australia's main territories too. A merger can bring some more profit to its product
+
 
